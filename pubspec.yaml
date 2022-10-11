@@ -44,11 +44,11 @@ dev_dependencies:
 flutter:
 
   assets:
-    - packages/html_editor_enhanced/summernote.html
-    - packages/html_editor_enhanced/summernote-no-plugins.html
-    - packages/html_editor_enhanced/assets/font/summernote.eot
-    - packages/html_editor_enhanced/assets/font/summernote.ttf
-    - packages/html_editor_enhanced/assets/plugins/summernote-at-mention/summernote-at-mention.js
+    - assets/summernote.html
+    - assets/summernote-no-plugins.html
+    - assets/font/summernote.ttf
+    - assets/font/summernote.eot
+    - assets/plugins/summernote-at-mention/summernote-at-mention.js
   # This section identifies this Flutter project as a plugin project.
   # The 'pluginClass' and Android 'package' identifiers should not ordinarily
   # be modified. They are used by the tooling to maintain consistency when
